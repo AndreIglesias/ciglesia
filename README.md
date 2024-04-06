@@ -1,0 +1,1 @@
+sed -i 's/wil42\/playground\:v1/wil42\/playground\:v2/g' deploy.yaml

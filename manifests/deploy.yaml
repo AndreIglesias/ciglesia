@@ -15,7 +15,7 @@ spec:                           # Specification of the Deployment
     spec:
       containers:
       - name: wil               # Name of the container
-        image: wil42/playground:v2  # Docker image to use for the container
+        image: wil42/playground:v1  # Docker image to use for the container
         ports:
         - containerPort: 8888   # Port exposed by the container
 
